@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.taahyt.bytebooster.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "bytebooster.refmap.json",
+  "mixins": [
+    "MixinCCustomPayloadLoginPacket",
+    "MixinSCustomPayloadPlayPacket",
+    "MixinSCustomPayloadLoginPacket"
+  ],
+  "minVersion": "0.8"
+}
